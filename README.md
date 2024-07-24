@@ -5,15 +5,15 @@ Hospital readmissions represent a significant challenge in the healthcare sector
 In this project, several machine learning models were implemented and evaluated to predict hospital readmissions for diabetic patients. Each model was built using a consistent preprocessing pipeline for fair comparison.
 I have explored various machine learning models and techniques in this project, including:
 
--Complement Naive Bayes 
--Gaussian Naive Bayes 
--Decision Tree 
--Logistic Regression 
--Random Forest
--Linear Support Vector Classifier 
--Gradient Boosting
--AdaBoost
--CatBoost
+- Complement Naive Bayes
+- Gaussian Naive Bayes
+- Decision Tree
+- Logistic Regression
+- Random Forest
+- Linear Support Vector Classifier
+- Gradient Boosting
+- AdaBoost
+- CatBoost
 
 Feature engineering and selection techniques were also employed to enhance model performance.
 
